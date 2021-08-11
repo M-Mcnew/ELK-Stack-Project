@@ -4,7 +4,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-[Azure_Diagram](/Images/'Azure network diagram.PNG')
+[Azure_Diagram](https://github.com/M-Mcnew/ELK-Stack-Project/blob/3fe9a1a3f7baadf668d547ecc67296c11f870816/Images/Azure%20network%20diagram.PNG)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Roles file may be used to install only certain pieces of it, such as Filebeat.
 
